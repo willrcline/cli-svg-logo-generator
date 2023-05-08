@@ -1,5 +1,7 @@
 # Logo Generator (SVG format)
 
+[Video Demo](https://drive.google.com/file/d/1xkXc0Nm8jk7WhPTE3kme8nG8lnQGk6iv/view)
+
 ## Description
 Input specifications to customize your logo, and the application will generate it for you.
   
