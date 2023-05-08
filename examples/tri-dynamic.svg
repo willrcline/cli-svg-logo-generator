@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+    <polygon points="150,50 50,150 250,150" fill="Red" opacity="0.9"/>
+    <text x="50%" y="50%" font-family="Arial" font-size="12" text-anchor="middle" fill="Green" dy=".3em">TriDynamic</text>
+ </svg>
